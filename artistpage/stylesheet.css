@@ -1,0 +1,41 @@
+body{
+	margin: 50px 15% 50px 15%;
+	background-color:#0099ff;
+	font-family:"josefin sans", sans-serif;
+	color:#ffffff;
+}
+h1{
+	font-family:"Luckiest Guy", cursive;
+	font-size: 48px;
+	color: #1a75ff ;
+	background-color:  #00ff00;
+	padding: 0 5px 5px 5px;
+	width: 500px;
+}
+
+h1 {
+border:5px inset #003cb3 }
+
+
+.righty{ 
+	max-width:100%; 
+	height: auto;
+	float: right;
+	margin:15px 0 15px 15px;
+}
+
+.lefty{
+	max-width:100%;
+	height: auto;
+	float: left;
+	margin:0 15px 15px 0 ;
+
+}
+
+
+
+
+p{
+	text-align: justify;
+	line-height: 24px;
+}
